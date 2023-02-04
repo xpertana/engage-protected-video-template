@@ -1,5 +1,10 @@
 # engage-protected-video-template
 
+This is a basic template for a PIN protected site to share one of more videos.
+
+
+## Fluent
+
 ```javascript
 [init]
 app.id 66
